@@ -1,0 +1,183 @@
+{
+  "title": "Samvel Petrosyan | Flutter Developer",
+  "firstName": "Samvel",
+  "lastName": "Petrosyan",
+  "description": "Flutter Developer",
+  "interests": [
+    {
+      "name": "Reading",
+      "description": "I love spending my free time on reading"
+    },
+    {
+      "name": "Sports",
+      "description": "I go to GYM and pool,I also like to play soccer and table tennis."
+    },
+    {
+      "name": "Riding horses",
+      "description": "I love riding horses on weekends,this kind of rest fully relaxes me, and helps to gather energy for the upcoming weeks."
+    }
+  ],
+  "experience": [
+    {
+      "company": "GSoft LLC",
+      "title": "Android Engineer",
+      "location": "Yerevan, Armenia",
+      "startDate": "2016",
+      "endDate": "2018"
+    },
+    {
+      "company": "Codics LLC",
+      "title": "Android Engineer",
+      "location": "Yerevan, Armenia",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "company": "Codics LLC",
+      "title": "Flutter Engineer",
+      "location": "Yerevan, Armenia",
+      "startDate": "2018",
+      "endDate": "2022"
+    },
+    {
+      "company": "Atlas Europe",
+      "title": "Flutter Engineer",
+      "location": "Remote",
+      "startDate": "2022",
+      "endDate": "2022"
+    }
+  ],
+  "contactInfo": {
+    "email": "samvelpetros@gmail.com",
+    "phone": "+374 55 05 15 91",
+    "address": "Yerevan, Armenia",
+    "website": "https://samvelpetrosyan.github.io",
+    "social": {
+      "facebook": "https://www.facebook.com/samvel.petrosyan.878/",
+      "linkedin": "https://www.linkedin.com/in/samvel-petrosyan-2b12b0152/"
+    }
+  },
+  "education": [
+    {
+      "school": "Anania Shirakatsy Lyceum",
+      "degree": "High School",
+      "major": "Math",
+      "location": "Yerevan, Armenia",
+      "startDate": "2006",
+      "endDate": "2017"
+    },
+    {
+      "school": "TUMO, Center for Creative Technologies",
+      "degree": "Along study",
+      "major": "Computer Science",
+      "location": "Yerevan, Armenia",
+      "startDate": "2012",
+      "endDate": "2016"
+    },
+    {
+      "school": "American University of Armenia",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "location": "Yerevan, Armenia",
+      "startDate": "2017",
+      "endDate": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "groupName": "Mobile Development",
+      "skills": [
+        {
+          "name": "Android",
+          "level": 5
+        },
+        {
+          "name": "Flutter",
+          "level": 5
+        },
+        {
+          "name": "Java",
+          "level": 5
+        },
+        {
+          "name": "Kotlin",
+          "level": 5
+        },
+        {
+          "name": "Dart",
+          "level": 5
+        },
+        {
+          "name": "BLoC (Flutter)",
+          "level": 5
+        },
+        {
+          "name": "Firebase",
+          "level": 5
+        },
+        {
+          "name": "XML",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "groupName": "General Programming",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 4
+        },
+        {
+          "name": "C++",
+          "level": 3
+        },
+        {
+          "name": "OOP",
+          "level": 5
+        },
+        {
+          "name": "SOLID",
+          "level": 5
+        },
+        {
+          "name": "Agile",
+          "level": 4
+        },
+        {
+          "name": "MYSQL",
+          "level": 3
+        },
+        {
+          "name": "Git",
+          "level": 5
+        },
+        {
+          "name": "Rest API",
+          "level": 5
+        },
+        {
+          "name": "JSON",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "groupName": "Languages",
+      "skills": [
+        {
+          "name": "Armenian",
+          "level": 5
+        },
+        {
+          "name": "English",
+          "level": 5
+        },
+        {
+          "name": "Russian",
+          "level": 4
+        }
+      ]
+    }
+  ]
+}
